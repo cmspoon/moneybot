@@ -1,4 +1,4 @@
-THE MONEY MAKER
+THE MONEY MAKER:
 A program designed to take all different types of money storage accounts and eventually calculate the best way to spread them for MAXIMUM PROFIT
 
 Development Steps
