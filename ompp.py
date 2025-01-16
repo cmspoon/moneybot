@@ -90,7 +90,7 @@ class Account:
 
 def main():
     while True:
-        print("\nWelcome to the Optimal Money Placement Program")
+        print("\nWelcome to moneybot 💵")
         print("1. Create a new account")
         print("2. View an existing account")
         print("3. Edit an existing account")
